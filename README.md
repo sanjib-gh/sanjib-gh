@@ -17,7 +17,7 @@
 - 📝 Research projects and reproducible code
 
 📫 **Let’s connect:**
-- [Email me](sanjib.stat@cu.ac.bd)
+- [Email me](sanjib.stat@gmail.com)
 
 
 🚀 I believe in open science and reproducible research. Let’s collaborate!
