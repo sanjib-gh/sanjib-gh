@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sanjib Ghosh
 
-🎓 I’m an Assistant Professor of Statistics at the University of Chittagong, Bangladesh, and currently a PhD Research Fellow in JNIRCMPS, CU.
+🎓 I’m an Assistant Professor of Statistics at the University of Chittagong, Bangladesh.
 
 🔬 My research interests span:
 - 📈 Machine learning
